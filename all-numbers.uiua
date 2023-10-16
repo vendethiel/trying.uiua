@@ -1,0 +1,4 @@
+=0/+∵'type⊔
+
+# requires an array of boxed elements (of course)
+# A number (/ number array) has type 0, so if the sum of all types is 0, it's a number array
