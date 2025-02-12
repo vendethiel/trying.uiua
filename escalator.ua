@@ -1,4 +1,4 @@
-/(⊂∩⊔)∵(□⊂∶@\n♭↯∶"#"+1)⇡
+/(◇⊂∩)∵(□⊂:@\n♭↯:"#"+1)⇡
 
 # Needs the height on the stack
 # Use &p to show it
