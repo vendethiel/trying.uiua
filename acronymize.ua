@@ -1,0 +1,2 @@
+▽×⊸⊃(≥@A|≤@Z)
+# Keeps only uppercase letters
